@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../source/index.ts"],"sourcesContent":["import { resolve as resolvePath } from 'path';\n\nconst projectPath = resolvePath(\n    __dirname,\n    '../project'\n);\n\nexport default {\n    path: projectPath\n};"],"names":["projectPath","resolvePath","__dirname","path"],"mappings":"sCAEA,MAAMA,YAAcC,aAChBC,UACA,cAGJ,WACIC,KAAMH"}

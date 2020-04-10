@@ -1,0 +1,7 @@
+default:
+    autoload:
+        '': '%paths.base%/tests/Feature/steps'
+    suites:
+        default:
+            paths:
+                - '%paths.base%/tests/Feature'
