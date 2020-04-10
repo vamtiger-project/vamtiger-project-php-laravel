@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-project-php-laravel",
-    "version": "0.0.2",
+    "version": "0.0.3-0",
     "description": "VAMTIGER Laravel project",
     "main": "build",
     "scripts": {
